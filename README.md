@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://www.bing.com/images/create/fashionai-image/1-661419c38a19447b9ed97a783c0ea6a8?id=WF2vpilLAWU6dGlzPnT%2f1w%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG3.0nmTO9CEvCAWn99nC7sX&frame=sydedg&FORM=SYDBIC" alt="Project Image" width="400" height="300">
+  <img src="![_f4d1034e-ac69-44f2-9084-b87abba026ff](https://github.com/Likhith-24/FashionRobe/assets/132389441/01a6fc9f-d218-4937-b86f-ee2b94324f65)
+" alt="Project Image" width="400" height="300">
 </p>
 
 <h1 align="center">👗 FashionRobe 👔</h1>
