@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="link/to/project/image.png" alt="Project Image" width="400" height="300">
+  <img src="https://www.bing.com/images/create/fashionai-image/1-661419c38a19447b9ed97a783c0ea6a8?id=WF2vpilLAWU6dGlzPnT%2f1w%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG3.0nmTO9CEvCAWn99nC7sX&frame=sydedg&FORM=SYDBIC" alt="Project Image" width="400" height="300">
 </p>
 
 <h1 align="center">👗 FashionRobe 👔</h1>
@@ -63,5 +63,5 @@ Here's a sneak peek into the algorithmic magic of **FashionRobe**:
 
 For a detailed view, check out this flowchart:
 
-![Flowchart](https://www.researchgate.net/publication/305809442/figure/fig1/AS:391301519429634@1470304960333/The-flow-chart-of-our-algorithm-We-take-a-single-view-image-ModCloth-2015-c-a.png)
+![Flowchart](https://github.com/pavankumar19992208/frost_hack/assets/96653443/8f314dca-5c38-420c-9719-3e80d22074ce)
 
