@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Likhith-24/FashionRobe/assets/132389441/01a6fc9f-d218-4937-b86f-ee2b94324f65" alt="Project Image" width="400" height="300">
+  <img src="https://github.com/Likhith-24/FashionRobe/assets/132389441/01a6fc9f-d218-4937-b86f-ee2b94324f65" alt="Project Image" width="400" height="400">
 </p>
 
 <h1 align="center">👗 FashionRobe 👔</h1>
