@@ -43,7 +43,7 @@ Our solution simplifies your morning routine, encourages creative styling, and e
 
 ### 🤖 How It Works
 
-1. **User Profiles**: Our users, like `username-987654321`, who prefers minimalist styles, and `username-9182442102`, who loves bold patterns, input their preferences and wardrobe details.
+1. **User Profiles**: Our users, like `https://github.com/Anvesh190902`, `https://github.com/pavankumar19992208/` who prefers minimalist styles, and `https://github.com/akashg0016/`, who loves bold patterns, input their preferences and wardrobe details.
    
 2. **Machine Learning Magic**: We use recommender systems to analyze these inputs and generate outfit combinations that resonate with each user's unique style.
 
@@ -53,15 +53,15 @@ Our solution simplifies your morning routine, encourages creative styling, and e
 
 Here's a sneak peek into the algorithmic magic of **FashionRobe**:
 
-![Algorithm Overview](link/to/algorithm/overview.gif)
+![Algorithm Overview](https://media.voguebusiness.com/photos/5ef0ca4d55b65a5f20aa3bcf/2:3/w_1920,c_limit/-bias-ai-june-20-story.gif)
 
-![User Preference Analysis](link/to/user/preference/analysis.gif)
+![User Preference Analysis](https://cdn.dribbble.com/users/2592835/screenshots/9197223/media/f638376aada04c042e4912e424e3acc0.gif)
 
-![Wardrobe Combination Generator](link/to/wardrobe/generator.gif)
+![Wardrobe Combination Generator](https://assets-global.website-files.com/647a5cfe9ae504d687e5d999/647e592f4340025f76ee87b3_ezgif.com-gif-maker.gif)
 
-![Final Outfit Selection](link/to/final/outfit/selection.gif)
+![Final Outfit Selection](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhjeG1hYm81MXM0Y3NxYTExZ3UwYmlsM2UxczRscmExM25rdjJ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xez4EbpWKM9kTrG/giphy.gif)
 
 For a detailed view, check out this flowchart:
 
-![Flowchart](link/to/flowchart/image.gif)
+![Flowchart](https://www.researchgate.net/publication/305809442/figure/fig1/AS:391301519429634@1470304960333/The-flow-chart-of-our-algorithm-We-take-a-single-view-image-ModCloth-2015-c-a.png)
 
