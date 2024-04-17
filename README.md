@@ -53,13 +53,22 @@ Our solution simplifies your morning routine, encourages creative styling, and e
 
 Here's a sneak peek into the algorithmic magic of **FashionRobe**:
 
-![Algorithm Overview](https://media.voguebusiness.com/photos/5ef0ca4d55b65a5f20aa3bcf/2:3/w_1920,c_limit/-bias-ai-june-20-story.gif)
+<p align="center"> 
+  <img src="https://media.voguebusiness.com/photos/5ef0ca4d55b65a5f20aa3bcf/2:3/w_1920,c_limit/-bias-ai-june-20-story.gif" alt="Project Image" width="300" height="400">
+</p>
 
-![User Preference Analysis](https://cdn.dribbble.com/users/2592835/screenshots/9197223/media/f638376aada04c042e4912e424e3acc0.gif)
+<p align="center"> 
+  <img src="https://cdn.dribbble.com/users/2592835/screenshots/9197223/media/f638376aada04c042e4912e424e3acc0.gif" alt="Project Image" width="700" height="400">
+</p>
 
-![Wardrobe Combination Generator](https://assets-global.website-files.com/647a5cfe9ae504d687e5d999/647e592f4340025f76ee87b3_ezgif.com-gif-maker.gif)
+<p align="center"> 
+  <img src="https://assets-global.website-files.com/647a5cfe9ae504d687e5d999/647e592f4340025f76ee87b3_ezgif.com-gif-maker.gif" alt="Project Image" width="700" height="400">
+</p>
 
-![Final Outfit Selection](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhjeG1hYm81MXM0Y3NxYTExZ3UwYmlsM2UxczRscmExM25rdjJ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xez4EbpWKM9kTrG/giphy.gif)
+<p align="center"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhjeG1hYm81MXM0Y3NxYTExZ3UwYmlsM2UxczRscmExM25rdjJ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xez4EbpWKM9kTrG/giphy.gif" alt="Project Image" width="700" height="400">
+</p>
+
 
 For a detailed view, check out this flowchart:
 
