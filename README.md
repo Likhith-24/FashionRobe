@@ -75,7 +75,9 @@ For a detailed view, check out this flowchart:
 ![Flowchart](https://github.com/pavankumar19992208/frost_hack/assets/96653443/8f314dca-5c38-420c-9719-3e80d22074ce)
 
 ## Contributors 🙌
-- [@Anvesh190902](https://github.com/Anvesh190902)
+- [@Anvesh](https://github.com/Anvesh190902)
+- [@PavanKumar](https://github.com/pavankumar19992208)
+- [@Akash](https://github.com/akashg0016/)
 
 <h1 align="center">Hi 👋, I'm Likhith</h1>
 <h3 align="center">Explorer | Creator | Innovator | Developer from India</h3>
